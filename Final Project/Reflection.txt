@@ -1,1 +1,9 @@
-
+What knowledge and/or skills did you learn?
+  I learned the basics of Unity, and how to make a simpled platformer game. Specific topics include: enemy detection, enemy AI, enemy spawner, audio, scene management, and Unity inheritance.
+  Did no use java class, learned how to script in C#, everything listed above uses scirpting, so they are the specific java classes.
+  Also learned project management, and time management, as before I would try to finish coding in one sitting. In this project, I tried to code a little bit everyday and use a todo list to keep track of time.
+  
+  What problems did you expereince? 
+    One problem that was difficult was using inheritance in Unity, since nobody really uses inheritance in Unity, so there weren't that man tutorials about that. I managed to figure it out through trail and error.
+    Another problem that I faced was scene management, as the documentation really confused me, but watching tutorials with other examples helped me understand more of the code.
+    Enemy AI was also quite confusing, as I had two players and the target is meant for only 1 player. I solved the error through trail and error, and usin the camera follow script which follows a similar theory.
